@@ -1,5 +1,5 @@
 # MicroServicio-Inyector
-esta es la traza del error 
+Esta es la traza del error:
 
    "Traceback (most recent call last):
   File "/Productor/productorKafka.py", line 79, in <module>
