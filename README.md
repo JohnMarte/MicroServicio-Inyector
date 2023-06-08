@@ -1,5 +1,6 @@
 # MicroServicio-Inyector
-#esta es la traza del error 
+esta es la traza del error 
+
    File "/Productor/productorKafka.py", line 42, in <module>
      ejecutar_cada_30_segundos()
    File "/Productor/productorKafka.py", line 37, in ejecutar_cada_30_segundos
